@@ -1,0 +1,2 @@
+# redirects
+Link redirect page
